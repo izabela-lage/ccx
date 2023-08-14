@@ -1,0 +1,130 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    background: #FFD900;
+}
+
+#ccxp {
+    width: 202px;
+    height: 63px;
+    margin-top: 27px;
+    margin-left: 58px;
+    margin-bottom: 27px;
+}
+
+#complexo{
+    display: grid;
+    grid-auto-flow: column;
+    text-align: center;
+}
+
+#roxo{
+    background: #514988;
+    align-items: Center;
+    justify-items: center;
+    text-align: center;
+}
+
+#titulo{
+    font-weight: 700;
+    font-size: 70px;
+    color: #FFD900;
+    line-height: 85.07px;
+   }
+
+#subtitulo{
+    font-weight: 700;
+    font-size: 30px;
+    color: white;
+    line-height: 36.46px;
+}
+
+#paragrafo{
+    font-weight: 400;
+    font-size: 29px;
+    color: white;
+    line-height: 35.24px;
+}
+
+#js{
+    background-color: white;
+   
+}
+
+.timer{
+    color: #514988;
+    display: grid;
+    grid-auto-flow: column;
+    padding: 0px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 85.07px;
+    margin: 0px;
+}
+
+#rosa{
+    font-weight: 700;
+    Size: 30px;
+    color:  #E33881;
+    line-height: 36.46px;
+    display: grid;
+    grid-auto-flow: column;
+    padding: 0px;
+    margin: 0px;
+}
+
+#video{
+    width: 1000px;
+    
+}
+
+#trodape{
+    color: #F3C61F;
+    font-weight: 700;
+    size: 27px;
+    line-height: 32.81px;
+    padding-left: 89px;
+
+}
+
+#cards{
+    width: 204px;
+    height: 204px;
+    top: 875px;
+    left: 285px;
+    display: grid;
+    grid-auto-flow: column;
+    padding-left: 105px;
+    padding-right: 100px;
+    
+}
+
+button{
+    background: #514988;
+    color: white;
+    width: 596px;
+    height: 148px;
+    top: 903px;
+    left: 1004px;
+    border-radius: 20px;
+    margin-left: 200px;
+    
+}
+
+#botao:hover{
+    background-color: #514988;
+    cursor: pointer;
+    color: #F3C61F;
+}
+
+#botao{
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 51.04px;
+}
+
+.card-highlight{
+    box-shadow: 10px 10px grey;
+}
